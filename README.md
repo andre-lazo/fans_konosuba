@@ -1,0 +1,2 @@
+# fans_konosuba
+konosuba
